@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "istream": "cpp",
+        "iostream": "cpp",
+        "random": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "ostream": "cpp",
+        "numeric": "cpp"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+    "editor.fontFamily": "'Jetbrains Mono', monospace",
+    "C_Cpp.dimInactiveRegions": false
+}
